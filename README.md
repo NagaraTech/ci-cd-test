@@ -1,3 +1,3 @@
 # ci-cd-test
 
-![deploy workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+![deploy workflow](https://github.com/NagaraTech/ci-cd-test/actions/workflows/deploy-image.yml/badge.svg)
